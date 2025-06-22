@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "python_aiagent": {
+      "command": "/opt/anaconda3/envs/py312/bin/python",
+
+      "args": [
+        "-u",
+        "/Users/yongjie.xue/Documents/Vscode/Python_AIagent/main.py"
+      ],
+
+      "workingDirectory": "/Users/yongjie.xue/Documents/Vscode/Python_AIagent",
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}
