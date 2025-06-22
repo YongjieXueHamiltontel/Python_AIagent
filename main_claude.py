@@ -36,8 +36,8 @@ def demo_get_host_info_in_MCP() -> None:
 
 
 def main():
-    demo_modify_file()
-    # demo_get_host_info_in_MCP()
+    # demo_modify_file()
+    demo_get_host_info_in_MCP()
 
     
 

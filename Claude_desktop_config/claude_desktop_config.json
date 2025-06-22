@@ -5,7 +5,7 @@
 
       "args": [
         "-u",
-        "/Users/yongjie.xue/Documents/Vscode/Python_AIagent/main.py"
+        "/Users/yongjie.xue/Documents/Vscode/Python_AIagent/main_claude.py"
       ],
 
       "workingDirectory": "/Users/yongjie.xue/Documents/Vscode/Python_AIagent",
