@@ -15,4 +15,4 @@ ENV/
 .venv/
 
 # Environment variable files
-# .env
+.env
